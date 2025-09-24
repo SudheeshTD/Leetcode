@@ -1,16 +1,15 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        
-        dict_two = {}
+        num_map = {}
+        n = len(nums)
+        for i in range(n):
+            comp = target - nums[i]
 
-        for i in range(len(nums)):
-            diff = target - nums[i]
-            if diff not in dict_two:
-                dict_two[nums[i]] = i
-            else:
-                return [dict_two[diff],i]
+            if comp in num_map:
+                return [num_map[comp],i] 
+
+            num_map[nums[i]] = i
                 
 
-
-
-        
+   
+            
