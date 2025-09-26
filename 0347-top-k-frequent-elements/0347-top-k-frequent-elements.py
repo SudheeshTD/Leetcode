@@ -1,5 +1,8 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        
+        return [num for num, _ in Counter(nums).most_common(k)]
+        
         '''
         d = {}
         freq = [[] for i in range(len(nums)+1)]
@@ -18,6 +21,7 @@ class Solution:
                     return res
         '''
 
+'''
         freq = Counter(nums)
         arr_freq = freq.most_common()
 
@@ -29,7 +33,8 @@ class Solution:
             ar.append(i)
         
         return ar
-
+'''
+        
         
         
 
