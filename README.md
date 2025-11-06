@@ -28,6 +28,7 @@ This is the repository for my Leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/SudheeshTD/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SudheeshTD/Leetcode/tree/master/0049-group-anagrams) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SudheeshTD/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/SudheeshTD/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SudheeshTD/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/SudheeshTD/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -55,4 +56,12 @@ This is the repository for my Leetcode solutions
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SudheeshTD/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SudheeshTD/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SudheeshTD/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
