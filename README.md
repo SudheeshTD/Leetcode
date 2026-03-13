@@ -27,6 +27,7 @@ This is the repository for my Leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SudheeshTD/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SudheeshTD/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/SudheeshTD/Leetcode/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SudheeshTD/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/SudheeshTD/Leetcode/tree/master/0217-contains-duplicate) |
@@ -59,6 +60,7 @@ This is the repository for my Leetcode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SudheeshTD/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SudheeshTD/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
